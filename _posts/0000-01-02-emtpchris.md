@@ -3,4 +3,4 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
-Use the left arrow to go back!
+Dirty Joke: Three white horses fell in the mud...and 4 came out!! HAAAA!
